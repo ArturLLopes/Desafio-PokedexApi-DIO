@@ -1,5 +1,5 @@
 # Pokédex [WebPage](https://arturllopes.github.io/Desafio-PokedexApi-DIO/)
-Projeto criado para conclusão do curso (Ri Happy - Front-end do Zero) de logica de programação com Javascript da DIO
+Projeto criado para conclusão do curso (Ri Happy - Front-end do Zero) de lógica de programação com Javascript da DIO.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/19cbd011-4003-4fbc-8ba2-55346dc07c2a"  wigth="200px" />
@@ -8,7 +8,7 @@ Projeto criado para conclusão do curso (Ri Happy - Front-end do Zero) de logica
 
 Esta página web é uma implementação  de uma Pokédex, construída com **HTML**, **CSS** e **JavaScript**. A Pokédex exibe uma lista de Pokémons, com a possibilidade de carregar mais itens conforme necessário. A aplicação usa a PokéAPI para buscar os dados de cada Pokémon e apresenta as informações de forma organizada e intuitiva.
 <br>
-Para o desafio proposto, foi adicionado esse card com as infirmoações dos pokemons, alende de alterar as sprites de cada um.
+Para o desafio proposto, foi adicionado esse card com os status dos pokémons, além de alterar as sprites de cada um.
 
 <div align="center">
    
